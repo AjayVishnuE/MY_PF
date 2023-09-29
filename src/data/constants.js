@@ -227,6 +227,23 @@ export const projects = [
     webapp: "https://ajayvishnu.netlify.app/",
   },
   {
+    id: 1,
+    title: "Responsive Web Design",
+    date: "Jan 2023",
+    description:
+      "Completed the freeCodeCamp.org Responsive Web Design - Developer Certification, representing approximately 300 hours of coursework.",
+    image:
+      "",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+    category: "android app",
+    github: "https://github.com/AjayVishnuE/Responsive-Web-Design",
+    webapp: "https://ajayvishnu.netlify.app/",
+  },
+  {
     id: 2,
     title: "Technical Lead of CSI CCE",
     date: "Sep 2022 - Sep 2023",
