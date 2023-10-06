@@ -204,7 +204,7 @@ export const projects = [
     //   {
     //     name: "Upasana Chaudhuri",
     //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     linkedin: "https://www.linkedin.com/in/-2a2bb5231/",
     //     github: "https://github.com/upasana0710",
     //   },
     // ],
@@ -263,7 +263,7 @@ export const projects = [
     //   {
     //     name: "Upasana Chaudhuri",
     //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     linkedin: "https://www.linkedin.com/in/-2a2bb5231/",
     //     github: "https://github.com/upasana0710",
     //   },
     // ],
@@ -271,9 +271,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2017, text: "" },
+  { year: 2018, text: "" },
+  { year: 2019, text: "" },
+  { year: 2020, text: "" },
+  { year: 2021, text: "" },
 ];
