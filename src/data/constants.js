@@ -356,7 +356,7 @@ export const projects = [
     id: 21,
     title: "Technical Lead of CSI CCE",
     date: "Sep 2022 - Sep 2023",
-    description:
+    description: 
       "Technical Lead of Computer Society of India (CSI) Student Branch at Christ College of Engineering (CCE), Irinjalakuda. Providing technical support and organizing various events as Technical Lead of CSI SB CCE.",
     image:
       "https://drive.google.com/file/d/16e3694Xy8SO6mMLUB-OkcOGPhQQlhmSu/view?usp=sharing",
