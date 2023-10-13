@@ -352,6 +352,23 @@ export const projects = [
     github: "https://github.com/AjayVishnuE/",
     // webapp: "https://ajayvishnu.netlify.app/",
   },
+  // {
+  //   id: 13,
+  //   title: "Introduction To Web Development",
+  //   date: "May 2021",
+  //   description:
+  //     "Complted an online non-credit course authorized by University of California, Davis and offered through Coursera.",
+  //   image:
+  //     "https://i.ibb.co/61PDDhg/Coursera-web-development.jpg",   
+  //   tags: [
+  //     "HTML",
+  //     "CSS",
+  //     "JavaScript",
+  //   ],
+  //   category: "android app",
+  //   github: "https://github.com/AjayVishnuE/",
+  //   // webapp: "https://ajayvishnu.netlify.app/",
+  // },
   {
     id: 21,
     title: "Technical Lead of CSI CCE",
